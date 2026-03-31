@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td><strong>👤 Student Name</strong></td>
-    <td>Maulik Bubey</td>
+    <td>Maulik Dubey</td>
   </tr>
   <tr>
     <td><strong>📅 Course</strong></td>
@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td><strong>📧 Contact</strong></td>
-    <td>maulik.bubey@example.com</td>
+    <td>maulik.24bai10764@vitbhopal.ac.in</td>
   </tr>
 </table>
 
